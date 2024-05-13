@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: bc54b9ca8faf51446a1f3a6bef486c5a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: sgtapghost2_Frame_0
+    originalName: 
+    pivot: {x: 0.4833333, y: -0.08510638}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 30
+      height: 47
+    spriteID: c41db1eb707be944eb790f4e5559fa49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: sgtapghost2_Frame_1
+    originalName: 
+    pivot: {x: 0.4833333, y: -0.13043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 59
+      width: 30
+      height: 46
+    spriteID: 336b6c6bec789ab449503b8dab78e809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 59}
+  - name: sgtapghost2_Frame_2
+    originalName: 
+    pivot: {x: 0.4677419, y: -0.14893617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 31
+      height: 47
+    spriteID: a8195177b1090334785a28c513ce9557
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: sgtapghost2_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.19148935}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 167
+      width: 29
+      height: 47
+    spriteID: c85321f6c83b3b849927decb4a70efea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 167}
+  - name: sgtapghost2_Frame_4
+    originalName: 
+    pivot: {x: 0.4833333, y: -0.23404254}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 169
+      width: 30
+      height: 47
+    spriteID: 7e72670358c774f448c78cf9fd98eb19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 169}
+  - name: sgtapghost2_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.19148935}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 4
+      width: 29
+      height: 47
+    spriteID: ec3214c1ec996dd45b864b72c6acb39c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 4}
+  - name: sgtapghost2_Frame_6
+    originalName: 
+    pivot: {x: 0.4677419, y: -0.14893617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 59
+      width: 31
+      height: 47
+    spriteID: f07074a8ce636ca4982efcad1b83b57a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 59}
+  - name: sgtapghost2_Frame_7
+    originalName: 
+    pivot: {x: 0.4833333, y: -0.13043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 113
+      width: 30
+      height: 46
+    spriteID: 8427aaefc805a34409484ec05e73d832
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 113}
+  - name: sgtapghost2_Frame_8
+    originalName: 
+    pivot: {x: 0.4833333, y: -0.08510638}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 4
+      width: 30
+      height: 47
+    spriteID: 6ba134b94ca8d1f4b912d82d66d06bb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 43, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 11970142
+    name: sgtapghost2
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: sgtapghost2_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 4
+        width: 30
+        height: 47
+      spriteId: c41db1eb707be944eb790f4e5559fa49
+    - name: sgtapghost2_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 6
+        width: 30
+        height: 46
+      spriteId: 336b6c6bec789ab449503b8dab78e809
+    - name: sgtapghost2_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 7
+        width: 31
+        height: 47
+      spriteId: a8195177b1090334785a28c513ce9557
+    - name: sgtapghost2_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 9
+        width: 29
+        height: 47
+      spriteId: c85321f6c83b3b849927decb4a70efea
+    - name: sgtapghost2_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: 11
+        width: 30
+        height: 47
+      spriteId: 7e72670358c774f448c78cf9fd98eb19
+    - name: sgtapghost2_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 9
+        width: 29
+        height: 47
+      spriteId: ec3214c1ec996dd45b864b72c6acb39c
+    - name: sgtapghost2_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 7
+        width: 31
+        height: 47
+      spriteId: f07074a8ce636ca4982efcad1b83b57a
+    - name: sgtapghost2_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 10
+        y: 6
+        width: 30
+        height: 46
+      spriteId: 8427aaefc805a34409484ec05e73d832
+    - name: sgtapghost2_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 4
+        width: 30
+        height: 47
+      spriteId: 6ba134b94ca8d1f4b912d82d66d06bb9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 49, y: 64}
